@@ -1,0 +1,1 @@
+This repository contains my proposed contributions to open source project GenderMag Recorders Assistant which aims to reduce gender disparities in the way that people use software. The GenderMag Recorders Assistant repository can be viewed here: https://github.com/GenderMagProject/GenderMagRecordersAssistant
