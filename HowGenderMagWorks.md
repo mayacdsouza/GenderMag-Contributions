@@ -23,7 +23,7 @@ GenderMag Recorders Assistant is a semi-automated tool that helps users walk thr
 <h4>Example 3 - Learning Style:</h4> Guides showing how to complete relevant tasks on the website such as a set of written instructions, an FAQs page, or a video walkthrough can help people who are process-oriented learners. In order to also appeal to tinkerers, these guides can be optional. For example, there could be a popup the first time a user logins asking if they would like to go through the guides or proceed straight to the homepage.
 
 <h1>Attributions</h1>
-This guide was written using Handbook of Software Engineering Methods by Lara Letaw which was written under the Creative Commons Attribution-NonCommercial License (CC BY-NC). The images showing the five facets and the 3 personas are taken directly from the textbook and the remaining information draws upon the information provided in the textbook.
+This guide was written using Handbook of Software Engineering Methods by Lara Letaw which was written under the Creative Commons Attribution-NonCommercial License (CC BY-NC). The images showing the five facets and the 3 personas are taken directly from the textbook. The textbook can be accessed here: https://github.com/setextbook/setextbook.
 
 
 
