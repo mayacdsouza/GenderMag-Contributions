@@ -1,4 +1,4 @@
-<h1>Suggestions for improvement to GenderMag Recorder’s assistant based on walking through the tool:</h1>
+<h2>Suggestions for improvement to GenderMag Recorder’s assistant based on walking through the tool:</h2>
 
 1. The tool allows you to choose the persona and pronouns and then uses them accordingly in the walkthrough, but it uses incorrect conjugations. For example, instead of “she has” vs. “they have”, the tool automatically uses have. The conjugations could also be customized based on the pronouns used.
 
