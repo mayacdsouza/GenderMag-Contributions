@@ -6,8 +6,12 @@
   
         a. Image names could be added to the spreadsheet so it’s easier to find them in the separate folder.
         b. Format of each goal and action could be displayed more cleanly. Here is an example of this:
+        
+     <img src="https://github.com/mayacdsouza/GenderMag-Contributions/assets/97061012/ad33587f-901a-4123-9401-861080493d5a"/>
+
+
 3. Users could be allowed to create all actions and goals upfront.
-4. There could be clearer documentation for allowing users to associate subgoals with actions.
+4. There could be clearer documentation for allowing users to associate subgoals with actions and explaining what subgoals and actions are.
 5. The tool could come with an initial walkthrough (or a link to one on the GenderMag website) showing someone using the tool and verbalizing how to do so and why they are choosing options to help users more quickly understand how to use the tool and allow them to do so more effectively with this understanding.
 6. When choosing a persona, the following text could be shown in the dropdown (taken from the GenderMag Project website). Instead of only showing names and using a link to go to the project website, having both the link and these descriptions will enable users to get a quick understanding if they are someone who won’t have interest in going to the website link and reading a longer article.
  
